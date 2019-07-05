@@ -12,7 +12,7 @@
 
 **说明：**
 
-1. 借鉴于Flask项目结构和核心对象app概念
+1. 借鉴Flask项目结构和核心对象app概念
 
-2. 借鉴Flask读取配置方式，见utils中config.py, 其中做了一些修改
+2. 借鉴Flask读取配置方式，见utils中config.py
 
